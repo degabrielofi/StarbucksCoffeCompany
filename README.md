@@ -1,4 +1,4 @@
-  s<p align="center">
+  <p align="center">
     <img alt="logo" src="./GitHub/Starbucks.png" width="10%">
   </p>
   
