@@ -29,7 +29,7 @@
 
 ## 🕵️‍♂️ Para clonar o repositório utilize:
 ```bash
- git clone hhttps://github.com/degabrielofi/StarbucksCoffeCompany
+ git clone https://github.com/degabrielofi/StarbucksCoffeCompany
 ```
 
  ## 
